@@ -14,6 +14,12 @@ TextureImporter:
   - first:
       213: -1269937521209510679
     second: red-ghost_3
+  - first:
+      213: -4676889286186601442
+    second: red-ghost_4
+  - first:
+      213: -6016731862470008149
+    second: red-ghost_5
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -57,7 +63,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -72,7 +78,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 32
+    maxTextureSize: 64
     resizeAlgorithm: 0
     textureFormat: 4
     textureCompression: 1
@@ -84,7 +90,7 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Standalone
-    maxTextureSize: 32
+    maxTextureSize: 64
     resizeAlgorithm: 0
     textureFormat: 4
     textureCompression: 1
@@ -102,7 +108,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1
-        y: 16
+        y: 32
         width: 14
         height: 15
       alignment: 0
@@ -123,7 +129,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 17
-        y: 16
+        y: 32
         width: 14
         height: 15
       alignment: 0
@@ -144,7 +150,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1
-        y: 0
+        y: 16
         width: 14
         height: 15
       alignment: 0
@@ -165,7 +171,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 17
-        y: 0
+        y: 16
         width: 14
         height: 15
       alignment: 0
@@ -177,6 +183,48 @@ TextureImporter:
       bones: []
       spriteID: 9e4fd598d86406ee0800000000000000
       internalID: -1269937521209510679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-ghost_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14740339f9581fb0800000000000000
+      internalID: -4676889286186601442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-ghost_5
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 0
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba263b4cf36408ca0800000000000000
+      internalID: -6016731862470008149
       vertices: []
       indices: 
       edges: []

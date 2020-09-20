@@ -1,28 +1,43 @@
 fileFormatVersion: 2
-guid: 4e3ad1339acd9ec41b65c39631edc4d8
+guid: 78307c46801433e4b9a5fc6719d18db9
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6128299156075563123
-    second: sprites_0
+      213: 3438593377009521663
+    second: blue-ghost_0
   - first:
-      213: -8016180380217801881
-    second: sprites_0
+      213: 1929141432266228770
+    second: blue-ghost_1
   - first:
-      213: 3386662938922423588
-    second: sprites_1
+      213: -2700942492165322923
+    second: blue-ghost_2
   - first:
-      213: -6110656803992641779
-    second: sprites_2
+      213: 8039257893835277340
+    second: blue-ghost_3
   - first:
-      213: 8553092956536608252
-    second: sprites_3
+      213: 3196192143783871961
+    second: blue-ghost_4
   - first:
-      213: 6708733205153277002
-    second: sprites_4
+      213: 5965160783859754609
+    second: blue-ghost_5
   - first:
-      213: 6813553822765877458
-    second: sprites_5
+      213: -6748609740854550043
+    second: blue-ghost_0
+  - first:
+      213: -984766647435913329
+    second: blue-ghost_1
+  - first:
+      213: 5158992844357461824
+    second: blue-ghost_2
+  - first:
+      213: 210118080516382051
+    second: blue-ghost_3
+  - first:
+      213: 1089043674193045821
+    second: blue-ghost_4
+  - first:
+      213: -1127668442710186132
+    second: blue-ghost_5
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -66,9 +81,9 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
+  spriteGenerateFallbackPhysicsShape: 0
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
@@ -107,7 +122,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: sprites_0
+      name: blue-ghost_0
       rect:
         serializedVersion: 2
         x: 0
@@ -121,14 +136,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 76389ad6a6ec0c090800000000000000
-      internalID: -8016180380217801881
+      spriteID: 5e1af94423f1852a0800000000000000
+      internalID: -6748609740854550043
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprites_1
+      name: blue-ghost_1
       rect:
         serializedVersion: 2
         x: 16
@@ -142,14 +157,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4259378eff7dffe20800000000000000
-      internalID: 3386662938922423588
+      spriteID: f871ee0a3f76552f0800000000000000
+      internalID: -984766647435913329
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprites_2
+      name: blue-ghost_2
       rect:
         serializedVersion: 2
         x: 0
@@ -163,14 +178,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d0fd1bd2306923ba0800000000000000
-      internalID: -6110656803992641779
+      spriteID: 04765be88ac689740800000000000000
+      internalID: 5158992844357461824
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprites_3
+      name: blue-ghost_3
       rect:
         serializedVersion: 2
         x: 16
@@ -184,14 +199,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cf5924d4ab0b2b670800000000000000
-      internalID: 8553092956536608252
+      spriteID: 36dd01ee74d7ae200800000000000000
+      internalID: 210118080516382051
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprites_4
+      name: blue-ghost_4
       rect:
         serializedVersion: 2
         x: 0
@@ -205,14 +220,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a4467024e453a1d50800000000000000
-      internalID: 6708733205153277002
+      spriteID: d39a921a37f0d1f00800000000000000
+      internalID: 1089043674193045821
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprites_5
+      name: blue-ghost_5
       rect:
         serializedVersion: 2
         x: 16
@@ -226,8 +241,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2d807ff1a1b9e8e50800000000000000
-      internalID: 6813553822765877458
+      spriteID: c6767d7a687b950f0800000000000000
+      internalID: -1127668442710186132
       vertices: []
       indices: 
       edges: []

@@ -14,6 +14,12 @@ TextureImporter:
   - first:
       213: 4828710648431910195
     second: purple-ghost_3
+  - first:
+      213: -3636660166242818035
+    second: purple-ghost_4
+  - first:
+      213: -7534391136912095119
+    second: purple-ghost_5
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -57,7 +63,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -72,7 +78,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 32
+    maxTextureSize: 64
     resizeAlgorithm: 0
     textureFormat: 4
     textureCompression: 1
@@ -84,7 +90,7 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Standalone
-    maxTextureSize: 32
+    maxTextureSize: 64
     resizeAlgorithm: 0
     textureFormat: 4
     textureCompression: 1
@@ -102,7 +108,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1
-        y: 16
+        y: 32
         width: 14
         height: 15
       alignment: 0
@@ -123,7 +129,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 17
-        y: 16
+        y: 32
         width: 14
         height: 15
       alignment: 0
@@ -144,7 +150,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1
-        y: 0
+        y: 16
         width: 14
         height: 15
       alignment: 0
@@ -165,7 +171,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 17
-        y: 0
+        y: 16
         width: 14
         height: 15
       alignment: 0
@@ -177,6 +183,48 @@ TextureImporter:
       bones: []
       spriteID: 33d1eea40c6030340800000000000000
       internalID: 4828710648431910195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple-ghost_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08a84eb8dcf78dc0800000000000000
+      internalID: -3636660166242818035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple-ghost_5
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 0
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178c08d0e27707790800000000000000
+      internalID: -7534391136912095119
       vertices: []
       indices: 
       edges: []

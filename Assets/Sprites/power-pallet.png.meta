@@ -8,6 +8,9 @@ TextureImporter:
   - first:
       213: -367486903508993733
     second: power-pallet_1
+  - first:
+      213: 2680263672030046193
+    second: power-pallet_2
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -51,7 +54,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -95,10 +98,10 @@ TextureImporter:
       name: power-pallet_0
       rect:
         serializedVersion: 2
-        x: 3
-        y: 19
-        width: 10
-        height: 10
+        x: 0
+        y: 16
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -116,10 +119,10 @@ TextureImporter:
       name: power-pallet_1
       rect:
         serializedVersion: 2
-        x: 3
-        y: 3
-        width: 10
-        height: 10
+        x: 0
+        y: 0
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
