@@ -11,6 +11,8 @@ public class LevelGenerator : MonoBehaviour
     public GameObject Sprite5;
     public GameObject Sprite6;
     public GameObject Sprite7;
+    private Tweener tweener;
+    
     int[,] levelMap = {
                         {1,2,2,2,2,2,2,2,2,2,2,2,2,7},
                         {2,5,5,5,5,5,5,5,5,5,5,5,5,4},
@@ -32,7 +34,6 @@ public class LevelGenerator : MonoBehaviour
     // Start is called before the first frame update
     void Awake()
     {
-        //Debug.Log(levelMap.GetLength(0) + levelMap.GetLength(1));
         for (int quandrant = 1; quandrant <= 4; quandrant++)
         {
 
@@ -255,7 +256,6 @@ public class LevelGenerator : MonoBehaviour
                             }
                             break;
                         case 4:
-                            Debug.Log("test");
                             if (a > 0)
                             {
                                 if (a >= 7 && a <= 8)
@@ -363,6 +363,11 @@ public class LevelGenerator : MonoBehaviour
                 }
             }
         }
+
+    }
+    void Start()
+    {
+        
     }
 
     // Update is called once per frame
